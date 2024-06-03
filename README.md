@@ -1,4 +1,5 @@
 *Boas Vindas ao Meu Perfil*
+
 Meu nome é Graziele Cendrette
 * Estou estudando na Alura
 * Estou me desenvolvendo na linguagem JavaScript
@@ -6,4 +7,5 @@ Meu nome é Graziele Cendrette
 
 *Você Pode Entrar em Contato Comigo*
 grazicendrette95@gmail.com
+
 @grazicendrette
